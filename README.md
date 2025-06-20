@@ -7,7 +7,7 @@ Diseñar, implementar y evaluar una estrategia de trading cuantitativo sobre BTC
 
 ## 🧪 Descripción del Challenge
 
-Tu tarea es construir un sistema de trading cuantitativo completo sobre el par BTC/USDT. El proceso deberá incluir: **extracción de datos**, **cálculo de indicadores/variables**, **formulación de una estrategia** y **evaluación mediante backtesting**.
+Tu tarea es construir un sistema de trading cuantitativo completo sobre el par BTC/USDT. El proceso deberá incluir: **extracción de datos**, **cálculo de indicadores/features**, **formulación de una estrategia** y **evaluación mediante backtesting**.
 
 ---
 
