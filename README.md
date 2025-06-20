@@ -26,7 +26,7 @@ Diseñar un módulo para construir features técnicos derivados del precio.
 
 📌 Se espera que el sistema pueda escalar en el futuro para incluir nuevos indicadores. La forma en que estructures este componente es clave.
 
-**Ejemplos de features a incluir (no limitativos):**
+**Ejemplos de indicadores a incluir (no limitativos):**
 
 * Medias móviles (SMA/EMA)
 * RSI
@@ -34,7 +34,10 @@ Diseñar un módulo para construir features técnicos derivados del precio.
 * Distancia entre el precio y cada indicador
 * Volatilidad, momentum, etc.
 
-Tu sistema debe permitir incorporar fácilmente nuevas señales técnicas en el futuro.
+**Ejemplos de features a incluir (no limitativos):**
+* Distancia entre el precio y los indicadores.
+  
+Tu sistema debe permitir incorporar fácilmente nuevos indicadores y features en el futuro.
 
 ---
 
@@ -51,7 +54,6 @@ En ambos casos, deberás explicar detalladamente:
 
 * Qué variables estás usando y por qué.
 * Cómo funciona la lógica de entrada/salida.
-* Cómo gestionas el riesgo.
 
 ---
 
