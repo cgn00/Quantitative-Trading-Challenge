@@ -43,7 +43,7 @@ Tu sistema debe permitir incorporar fácilmente nuevos indicadores y features en
 
 ### 3️⃣ Implementación de Estrategia
 
-Formular una estrategia de trading basada en los features anteriores.
+Formular una estrategia de trading basada en los indicadores y features calculados.
 
 Puedes optar por una de las siguientes aproximaciones:
 
