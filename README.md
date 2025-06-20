@@ -35,7 +35,7 @@ Diseñar un módulo para construir features técnicos derivados del precio.
 * Volatilidad, momentum, etc.
 
 **Ejemplos de features a incluir (no limitativos):**
-* Distancia entre el precio y los indicadores.
+* Distancia entre el precio y los indicadores (donde se pueda aplicar y tenga sentido, ej. No tiene sentido medir la distancia entre el RSI y el precio ya que son en escalas diferentes).
   
 Tu sistema debe permitir incorporar fácilmente nuevos indicadores y features en el futuro.
 
