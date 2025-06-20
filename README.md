@@ -91,6 +91,6 @@ Implementar un módulo de backtesting que evalúe la estrategia sobre datos hist
 
 ### 💡 Consideración Importante
 
-Este challenge **NO busca obtener una estrategia rentable**, sino observar **cómo estructuras y escalas tu código**. Esperamos ver un enfoque organizado, extensible, y que refleje pensamiento profesional. No indicamos cómo debes estructurarlo —esa decisión es parte de la evaluación.
+Este challenge **NO busca obtener una estrategia rentable**, sino observar **cómo estructuras y escalas tu código**. Esperamos ver un enfoque organizado, extensible, y que refleje pensamiento profesional.
 
 ---
