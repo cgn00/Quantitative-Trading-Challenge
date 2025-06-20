@@ -5,12 +5,6 @@
 
 Diseñar, implementar y evaluar una estrategia de trading cuantitativo sobre BTC/USDT usando datos históricos de Binance, indicadores técnicos y modelos de decisión.
 
-## 📦 **Entregables**
-
-* Código en Python (módulos y notebooks organizados).
-* README explicando el enfoque, supuestos y cómo ejecutar.
-* Visualizaciones y métricas del backtest.
-
 ## 🧪 Descripción del Challenge
 
 Tu tarea es construir un sistema de trading cuantitativo completo sobre el par BTC/USDT. El proceso deberá incluir: **extracción de datos**, **cálculo de indicadores/variables**, **formulación de una estrategia** y **evaluación mediante backtesting**.
@@ -89,8 +83,28 @@ Implementar un módulo de backtesting que evalúe la estrategia sobre datos hist
   - Drawdown (curva): Muchas veces se grafica debajo de la equity curve y muestra visualmente cuándo y cuánto cayó tu capital en cada momento del tiempo.
 ---
 
-### 💡 Consideración Importante
+## 💡 Consideración Importante
 
 Este challenge **NO busca obtener una estrategia rentable**, sino observar **cómo estructuras y escalas tu código**. Esperamos ver un enfoque organizado, extensible, y que refleje pensamiento profesional.
 
 ---
+
+## 📬 Entrega
+
+Una vez finalices el challenge, **sube tu solución a un repositorio privado en GitHub**  y envíame el enlace para su revisión.
+
+### 📦 **Entregables**
+
+* Código en Python (módulos y notebooks organizados).
+* README explicando el enfoque, supuestos y cómo ejecutar.
+* Visualizaciones y métricas del backtest.
+
+### ⏱️ Fecha de Entrega
+
+No existe una fecha límite estricta para la entrega de este challenge. Lo que evaluamos es principalmente:
+
+- **Calidad del trabajo entregado.**
+- **Capacidad para estructurar soluciones de forma profesional.**
+- **Rapidez y criterio para resolver problemas técnicos.**
+
+Puedes tomarte el tiempo necesario para presentar un resultado sólido, pero también valoramos eficiencia en la ejecución.
