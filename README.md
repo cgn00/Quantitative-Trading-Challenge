@@ -3,7 +3,7 @@
 
 ## 🎯 **Objetivo**
 
-Diseñar, implementar y evaluar una estrategia de trading cuantitativo sobre BTC/USDT usando datos históricos de Binance, indicadores técnicos y modelos de decisión.
+Diseñar, implementar y evaluar una estrategia de trading cuantitativo sobre BTC/USDT usando datos históricos de Bitunix, indicadores técnicos y modelos de decisión.
 
 ## 🧪 Descripción del Challenge
 
@@ -13,7 +13,7 @@ Tu tarea es construir un sistema de trading cuantitativo completo sobre el par B
 
 ### 1️⃣ Extracción de Datos Históricos
 
-* Obtener datos históricos OHLCV de BTC/USDT desde la API de Binance.
+* Obtener datos históricos OHLCV de BTC/USDT desde la API de Bitunix.
 * El rango mínimo debe abarcar los últimos 6 meses.
 
 Este módulo debe ser **reutilizable** y apto para actualizar o cambiar pares/timeframes fácilmente.
